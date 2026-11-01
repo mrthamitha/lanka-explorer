@@ -16,7 +16,7 @@
 
 ## 1. What Lanka Explorer is
 
-Lanka Explorer is a travel guide for Sri Lanka: ten researched destinations across four
+Lanka  Explorer is a travel guide for Sri Lanka: ten researched destinations across four
 categories (Heritage, Beach, Nature, Wildlife), with live weather, entry fees in US dollars
 **and** rupees, an interactive map, and a personal trip planner that remembers your choices.
 
